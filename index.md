@@ -1,11 +1,13 @@
 ## Welcome to Half Epsilon
 
 
-### Overview
 
-Half Epsilon should interest you if you are a technical or a business leader in the Virtual Asset Service Providers (VASPs) industry. We are a deep tech startup developing technology that addresses several pain-points of VASPs. Check out our [whitepaper.](https://half-epsilon.github.io/DACTSv1.pdf) 
+Half Epsilon should interest you if you are a technical or a business leader in the Virtual Asset Service Providers (VASPs) industry. We are a deep tech startup developing technology that addresses several pain-points of VASPs. 
+
+For details, please read our [whitepaper.](https://half-epsilon.github.io/DACTSv1.pdf) 
 
 To be part of our **beta program**, please reach us at ```hello@halfepsilon.com```
+
 
 ### Concerns of the VASP Industry
 
