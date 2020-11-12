@@ -22,4 +22,10 @@ The VASP industry has a common set of concerns.
 - How to deal with variable transaction fees offered by blockchains? 
 - How to comply with regulations, specifically **FATF’s Travel Rule**? 
 
-Half Epsilon offers a holistic solution to all of the above problems. VASPs on the Half Epsilon Network can transfer digital assets to each other in a peer-to-peer fashion without any intermediaries. 
+### No Holistic Solution
+
+- The Blockchain Hardware Security Modules (HSM) industry is focused on solving the storage related concerns. 
+- Recently, an InterVASP Messaging Standard has been developed to aid Travel Rule Compliance. 
+- Several concerns remain unaddressed. 
+
+### 
