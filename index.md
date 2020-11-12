@@ -8,12 +8,12 @@ You should continue reading if you are a security architect, technical leader or
 
 The VASP industry has a common set of concerns. 
 
-Storage Related Concerns
+#### Storage Related Concerns
 
 - How do we store digital assets securely? 
 - How to protect against insider theft? 
 
-Transfer Related Concerns
+#### Transfer Related Concerns
 
 - How to transfer digital assets instantly? 
 - How to maintain confidentiality of digital asset transfers? 
