@@ -1,7 +1,8 @@
 ## Welcome to Half Epsilon
 
 
-You should continue reading if you are a security architect, technical leader or a business leader in the Virtual Asset Service Providers (VASPs) industry. 
+Please continue reading if you are a security architect, technical leader or a business leader in the Virtual Asset Service Providers (VASPs) industry. 
+
 
 
 ### Concerns of VASP Industry
