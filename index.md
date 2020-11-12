@@ -1,10 +1,11 @@
 ## Welcome to Half Epsilon
 
-Half Epsilon should interest you if you are a technical or a business leader in the Virtual Asset Service Providers (VASPs) industry. 
 
-Check out our whitepaper: [Digital Asset Custody and Transfer Solution](https://half-epsilon.github.io/DACTSv1.pdf) 
+### Overview
 
-To be part of our beta program, please reach us at ```hello@halfepsilon.com```
+Half Epsilon should interest you if you are a technical or a business leader in the Virtual Asset Service Providers (VASPs) industry. We are a deep tech startup developing technology that addresses several pain-points in the VASP industry. Check out our [whitepaper.](https://half-epsilon.github.io/DACTSv1.pdf) 
+
+We are running a beta program. To be part of it, please reach us at ```hello@halfepsilon.com```
 
 ### Concerns of the VASP Industry
 
@@ -28,7 +29,7 @@ The VASP industry has a common set of concerns.
 - Recently, an InterVASP Messaging Standard (IVMS-101) has been developed to aid Travel Rule Compliance. 
 - Several concerns remain unaddressed. 
 
-### One Time Spend Machine
+### Half Epsilon's Technical Breakthrough
 
 
 ![Localized Double Spend Prevention with OTSM](https://half-epsilon.github.io/OTSM.png)
@@ -38,7 +39,7 @@ The VASP industry has a common set of concerns.
 
 Half Epsilon One Time Spend Machine (OTSM) enables a fundamental change to how digital assets are transferred between VASPs. It allows direct inter-VASP transfers of digital assets without the transactions being submitted to a blockchain. OTSM is a special purpose HSM specifically developed for the VASP industry. It facilitates localized double-spend prevention. 
 
-### Digital Asset Custody and Transfer Solution 
+### A Holistic Solution
 
 Half Epsilon Digital Asset Custody and Transfer Solution (DACTS) is a holistic solution that addresses the above listed VASP concerns. For details, please read our [whitepaper.](https://half-epsilon.github.io/DACTSv1.pdf) 
 
