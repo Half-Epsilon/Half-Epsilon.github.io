@@ -2,7 +2,7 @@
 
 ### Audience
 
-You should continue reading if you are a security architect, technical leader or a business leader in the Virtual Asset Service Providers (VASPs) industry considering new and better approaches to help secure digital assets, reduce digital asset transfer costs, maintain confidentiality of their transactions and comply with upcoming regulations for the VASP industry, specifically FATF’s Travel Rule. 
+You should continue reading if you are a security architect, technical leader or a business leader in the Virtual Asset Service Providers (VASPs) industry. 
 
 ### VASP Concerns
 
