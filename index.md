@@ -1,8 +1,10 @@
 ## Welcome to Half Epsilon
 
-- **Audience:** Half Epsilon should interest you if you are a technical or a business leader in the Virtual Asset Service Providers (VASPs) industry. 
-- Download our [Whitepaper](https://github.com/Half-Epsilon/Half-Epsilon.github.io/edit/main/index.md) 
-- For specific queries and demos reach us at ```hello@halfepsilon.com```
+Half Epsilon should interest you if you are a technical or a business leader in the Virtual Asset Service Providers (VASPs) industry. 
+
+Check out our whitepaper: [Digital Asset Custody and Transfer Solution](https://github.com/Half-Epsilon/Half-Epsilon.github.io/edit/main/index.md) 
+
+To be part of our beta program, please reach us at ```hello@halfepsilon.com```
 
 ### Concerns of the VASP Industry
 
