@@ -25,7 +25,16 @@ The VASP industry has a common set of concerns.
 ### No Holistic Solution
 
 - The Blockchain Hardware Security Modules (HSM) industry is focused on solving the storage related concerns. 
-- Recently, an InterVASP Messaging Standard has been developed to aid Travel Rule Compliance. 
+- Recently, an InterVASP Messaging Standard (IVMS-101) has been developed to aid Travel Rule Compliance. 
 - Several concerns remain unaddressed. 
 
-### 
+### Half Epsilon One Time Spend Machine (OTSM)
+
+
+![Localized Double Spend Prevention with OTSM](https://half-epsilon.github.io/figs/otsm.png)
+
+
+Half Epsilon One Time Spend Machine (Half Epsilon OTSM) enables a fundamental change to how digital assets are transferred between VASPs. It allows direct inter-VASP transfers of digital assets without the transactions being submitted to a blockchain. OTSM is a special purpose HSM specifically developed for the VASP industry. It facilitates localized double-spend prevention. 
+
+
+
