@@ -2,7 +2,7 @@
 
 
 
-Half Epsilon should interest you if you are a technical or a business leader in the Virtual Asset Service Providers (VASPs) industry. We are a deep tech startup developing technology that addresses several pain-points of VASPs. 
+Half Epsilon should interest you if you are a technical or a business leader in the **Virtual Asset Service Providers (VASPs)** industry. We are a deep tech startup developing technology that addresses several pain-points of VASPs. 
 
 For details, please read our [whitepaper.](https://half-epsilon.github.io/DACTSv1.pdf) 
 
@@ -13,17 +13,18 @@ To be part of our **beta program**, please reach us at ```hello@halfepsilon.com`
 
 The VASP industry has a common set of concerns. 
 
-**Storage Related Concerns**
-
-- How do we store digital assets securely and protect against **outsider theft**? 
-- How to protect against **insider theft**? 
-
 **Transfer Related Concerns**
 
 - How to reduce **settlement latencies**? 
 - How to maintain **confidentiality** of digital asset transfers? 
 - How to deal with **variable transaction fees** offered by blockchains? 
 - How to comply with regulations, specifically **FATF’s Travel Rule**? 
+
+**Storage Related Concerns**
+
+- How do we store digital assets securely and protect against **outsider theft**? 
+- How to protect against **insider theft**? 
+
 
 ### No Holistic Solution
 
