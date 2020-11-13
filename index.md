@@ -35,7 +35,7 @@ The VASP industry has a common set of concerns.
 ### Half Epsilon's Technical Breakthrough
 
 
-![Localized Double Spend Prevention with OTSM](https://half-epsilon.github.io/OTSM.png)
+![Localized Double Spend Prevention with OTSM](https://half-epsilon.github.io/OTSM-transparent.png)
 
 **Figure 1:** Localized double-spend prevention enabled by OTSM.
 
