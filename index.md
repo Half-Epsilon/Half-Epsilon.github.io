@@ -42,7 +42,7 @@ Half Epsilon One Time Spend Machine (OTSM) enables a fundamental change to how d
 
 ### A Holistic Solution
 
-Half Epsilon Digital Asset Custody and Transfer Solution (DACTS) is a holistic solution that addresses the above listed VASP concerns. Our technology enables cost effective, confidential, are regulation compliant operations for VASPs. It also opens up the opportunity for novel use cases ranging from Global Electronic Cash to Central Bank Digital Currencies.
+Half Epsilon Digital Asset Custody and Transfer Solution (DACTS) is a holistic solution that addresses the above listed VASP concerns. Our technology enables cost effective, confidential, and regulation compliant operations for VASPs. It also opens up the opportunity for novel use cases ranging from Global Electronic Cash to Central Bank Digital Currencies.
 
 For details, please read our [whitepaper.](DACTSv1.pdf) 
 
