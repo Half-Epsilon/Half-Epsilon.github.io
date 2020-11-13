@@ -29,7 +29,7 @@ The VASP industry has a common set of concerns.
 ### No Holistic Solution
 
 - The Blockchain Hardware Security Modules (HSM) industry is focused on solving the storage related concerns. 
-- Recently, an InterVASP Messaging Standard (IVMS-101) has been developed to aid Travel Rule Compliance. 
+- Recently, the InterVASP Messaging Standard (IVMS-101) has been developed to aid Travel Rule Compliance. 
 - Several concerns remain unaddressed. No holistic solution.
 
 ### Half Epsilon's Technical Breakthrough
