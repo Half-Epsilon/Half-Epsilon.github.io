@@ -37,8 +37,8 @@ The VASP industry has a common set of concerns.
 
 ![Localized Double Spend Prevention with OTSM](https://half-epsilon.github.io/OTSM-transparent.png)
 
-**Figure 1:** Localized double-spend prevention enabled by OTSM.
 
+<p style="text-align: center;"> **Figure 1:** Localized double-spend prevention enabled by OTSM. </p>
 
 Half Epsilon One Time Spend Machine (OTSM) enables a fundamental change to how digital assets are transferred between VASPs. It allows direct inter-VASP transfers of digital assets without the transactions being submitted to a blockchain. OTSM is a special purpose HSM specifically developed for the VASP industry. It facilitates localized double-spend prevention. 
 
