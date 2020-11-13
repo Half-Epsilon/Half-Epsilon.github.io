@@ -4,7 +4,7 @@
 
 Half Epsilon should interest you if you are a technical or a business leader in the **Virtual Asset Service Providers (VASPs)** industry. We are a deep tech startup developing technology that addresses several pain-points of VASPs. 
 
-For details, please read our [whitepaper.](https://half-epsilon.github.io/DACTSv1.pdf) 
+For details, please read our [whitepaper.](DACTSv1.pdf) 
 
 To be part of our **beta program**, please reach us at ```hello@halfepsilon.com```
 
@@ -44,6 +44,6 @@ Half Epsilon One Time Spend Machine (OTSM) enables a fundamental change to how d
 
 Half Epsilon Digital Asset Custody and Transfer Solution (DACTS) is a holistic solution that addresses the above listed VASP concerns. Our technology enables cost effective, confidential, are regulation compliant operations for VASPs. It also opens up the opportunity for novel use cases ranging from Global Electronic Cash to Central Bank Digital Currencies.
 
-For details, please read our [whitepaper.](https://half-epsilon.github.io/DACTSv1.pdf) 
+For details, please read our [whitepaper.](DACTSv1.pdf) 
 
 To be part of our **beta program**, please reach us at ```hello@halfepsilon.com```
