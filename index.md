@@ -1,12 +1,13 @@
 ## Welcome to Half Epsilon
 
 
-
 Half Epsilon should interest you if you are a technical or a business leader in the **Virtual Asset Service Providers (VASPs)** industry. We are a deep tech startup developing technology that addresses several pain-points of VASPs. 
+
+Blockchains were not designed for institutions. As institutions enter the digital assets space, a new technology is required to enable the transfer of digital assets between institutions. Half Epsilon provides such a technology.
 
 For details, please read our [whitepaper.](DACTSv1.pdf) 
 
-To be part of our **beta program**, please reach us at ```hello@halfepsilon.com```
+We are actively seeking opportunities to pilot out technology. If interested, please reach us at ```hello@halfepsilon.com```
 
 
 ### Concerns of the VASP Industry
@@ -46,4 +47,4 @@ Half Epsilon Digital Asset Custody and Transfer Solution (DACTS) is a holistic s
 
 For details, please read our [whitepaper.](DACTSv1.pdf) 
 
-To be part of our **beta program**, please reach us at ```hello@halfepsilon.com```
+We are actively seeking opportunities to pilot out technology. If interested, please reach us at ```hello@halfepsilon.com```
