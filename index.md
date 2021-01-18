@@ -7,7 +7,7 @@ Blockchains were not designed for institutions. As institutions enter the digita
 
 For details, please read our [whitepaper.](DACTSv1.pdf) 
 
-Also, here's our vision for 2031 [vision.](2031.pdf) 
+Also, here's our [vision for 2031.](2031.pdf) 
 
 We are actively seeking opportunities to pilot out technology. If interested, please reach us at ```hello@halfepsilon.com```
 
