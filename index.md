@@ -21,11 +21,11 @@ We are actively seeking opportunities to pilot our technology. If interested, pl
 
 ### Founding Team 
 
-#### Pralhad Deshpande, Ph.D.
+**Pralhad Deshpande, Ph.D.**
 
 Responsible for vision, design and overall execution. ex-IBM Research. Experienced technical leader and inventor.
 
-#### Sanil Borkar 
+**Sanil Borkar** 
 
 Responsible for engineering the core product. ex-Amazon, ex-Businesssolver. Experienced engineer, hackathon winner & contributor to open-source.
  
