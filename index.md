@@ -2,7 +2,7 @@
 
 Half Epsilon is a digital asset custody tech provider. 
 
-Blockchains were not designed for institutions. They are too public, too slow and offer variable transaction costs. As institutions enter the digital assets space, a new technology is required to enable the transfer of digital assets between institutions. Half Epsilon provides such a technology.
+Blockchains were not designed for institutions. They are too public, too slow and offer variable transaction costs. As institutions enter the tokenized world, a new technology is required to enable the transfer of tokens between institutions in a compliant and confidential manner. Half Epsilon provides such a technology.
 
 We are actively seeking opportunities to pilot out technology. If interested, please reach us at ```hello@halfepsilon.com```
 
