@@ -13,7 +13,7 @@ We are actively seeking opportunities to pilot our technology. If interested, pl
 
 [Whitepaper: Localized Double-Spend Prevention and Digital Bearer Assets](DBA.pdf)
 
-[Whitepaper: Digital Assets Custody and Transfer Solution](DACTSv1.pdf) 
+[Whitepaper: Digital Assets Custody and Transfer Solution](DACTSv1.1.pdf) 
 
 [Data Sheet: One Time Spend Machine](OTSM-Data-Sheet.pdf)
 
