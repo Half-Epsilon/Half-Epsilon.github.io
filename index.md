@@ -18,3 +18,15 @@ We are actively seeking opportunities to pilot our technology. If interested, pl
 [Data Sheet: One Time Spend Machine](OTSM-Data-Sheet.pdf)
 
 [2031: A Digital Assets Story](2031.pdf) 
+
+### Founding Team 
+
+#### Pralhad Deshpande, Ph.D.
+
+Responsible for vision, design and overall execution. ex-IBM Research. Experienced technical leader and inventor.
+
+#### Sanil Borkar 
+
+Responsible for engineering the core product. ex-Amazon, ex-Businesssolver. Experienced engineer, hackathon winner & contributor to open-source.
+ 
+
