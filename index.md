@@ -1,6 +1,6 @@
 ## Welcome to Half Epsilon
 
-Half Epsilon is a digital asset custody tech provider. 
+Half Epsilon has solved the double spend prevention problem again. We believe this will unlock a huge amount of value. We are a digital asset custody and transfer tech provider. 
 
 Blockchains were not designed for institutions. They are too public, too slow and offer variable transaction costs. As institutions enter the tokenized world, a new technology is required to enable the transfer of tokens between institutions in a compliant and confidential manner. Half Epsilon provides such a technology.
 
