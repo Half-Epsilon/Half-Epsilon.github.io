@@ -19,6 +19,8 @@ We are actively seeking opportunities to pilot our technology. If interested, pl
 
 [2031: A Digital Assets Story](2031.pdf) 
 
+[Tokenizing Real World Assets](TokenizingRealWorldAssets.pdf)
+
 ### Founding Team 
 
 [**Pralhad Deshpande, Ph.D.**](https://www.linkedin.com/in/pralhad-deshpande-ph-d-97688010/)
