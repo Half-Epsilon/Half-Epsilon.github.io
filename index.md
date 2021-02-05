@@ -1,6 +1,10 @@
 ## Welcome to Half Epsilon
 
-Last time the Double Spend Prevention problem was solved it created a $1T economy (Crypto-economics). Half Epsilon has solved the Double Spend Prevention problem again. We believe this will unlock a huge amount of value. We are a digital asset custody and transfer tech provider. 
+
+Half Epsilon has solved the Double Spend Prevention problem again. We believe this will unlock a huge amount of value. 
+Last time this problem was solved it created a $1T economy. 
+
+We are a digital asset custody and transfer tech provider. 
 
 Blockchains were not designed for institutions. They are too public, too slow and offer variable transaction costs. As institutions enter the tokenized world, a new technology is required to enable the transfer of tokens between institutions in a compliant and confidential manner. Half Epsilon provides such a technology.
 
