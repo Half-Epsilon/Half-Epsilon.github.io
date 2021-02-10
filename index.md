@@ -29,7 +29,7 @@ We are actively seeking opportunities to pilot our technology. If interested, pl
 
 [**Pralhad Deshpande, Ph.D.**](https://www.linkedin.com/in/pralhad-deshpande-ph-d-97688010/)
 
-Responsible for vision, design and overall execution. ex-IBM Research. Experienced technical leader and inventor.
+Responsible for vision, design and overall execution. ex-IBM Research. Experienced technical leader.
 
 [**Sanil Borkar**](https://www.linkedin.com/in/sanilborkar/)
 
