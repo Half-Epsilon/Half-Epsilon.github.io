@@ -1,8 +1,7 @@
 ## Welcome to Half Epsilon
 
-
 Half Epsilon has solved the Double Spend Prevention problem again. We believe this will unlock a huge amount of value. 
-Last time this problem was solved it created a $1T economy. 
+Last time this problem was solved in 2008 and it created a $1T economy. 
 
 We are a digital asset custody and transfer tech provider. 
 
@@ -14,14 +13,11 @@ We are actively seeking opportunities to pilot our technology. If interested, pl
 
 ### Useful Links 
 
-
 [Whitepaper: Localized Double-Spend Prevention and Digital Bearer Assets](DBA.pdf)
 
 [Whitepaper: Digital Assets Custody and Transfer Solution](DACTSv1.1.pdf) 
 
 [Data Sheet: One Time Spend Machine](OTSM-Data-Sheet.pdf)
-
-[2031: A Digital Assets Story](2031.pdf) 
 
 [Tokenizing Real World Assets](TokenizingRealWorldAssets.pdf)
 
