@@ -9,7 +9,6 @@ Blockchains were not designed for institutions. They are too public, too slow an
 
 Our technology also gives Banks and Financial Institutions a genuine opportunity to tokenize traditional financial instruments.  
 
-We are actively seeking opportunities to pilot our technology. If interested, please reach us at ```hello@halfepsilon.com```
 
 ### Useful Links 
 
