@@ -12,7 +12,6 @@ Our technology also gives Banks and Financial Institutions a genuine opportunity
 
 ### Useful Links 
 
-[Whitepaper: Localized Double-Spend Prevention and Digital Bearer Assets](DBA.pdf)
 
 [Data Sheet: One Time Spend Machine](OTSM-Data-Sheet.pdf)
 
