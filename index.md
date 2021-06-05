@@ -14,7 +14,7 @@ Our technology also gives Banks and Financial Institutions a genuine opportunity
 
 [Whitepaper: Localized Double-Spend Prevention and Digital Bearer Assets](DBA.pdf)
 
-[Whitepaper: Digital Assets Custody and Transfer Solution](DACTSv1.1.pdf) 
+# [Whitepaper: Digital Assets Custody and Transfer Solution](DACTSv1.1.pdf) 
 
 [Data Sheet: One Time Spend Machine](OTSM-Data-Sheet.pdf)
 
