@@ -17,6 +17,8 @@ Our technology also gives Banks and Financial Institutions a genuine opportunity
 
 [Tokenizing Real World Assets](TokenizingRealWorldAssets.pdf)
 
+[Inter-bank Payments](Inter-bank-Payments.pdf)
+
 ### Founding Team 
 
 [**Pralhad Deshpande, Ph.D.**](https://www.linkedin.com/in/pralhad-deshpande-ph-d-97688010/)
