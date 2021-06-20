@@ -6,18 +6,20 @@ The inspiration for tokenized assets comes from the crypto-currency world. A tok
 
 However, blockchains are an extremely poor choice of technology for moving tokenized assets between banks. There are confidentiality and compliance issues in using this technology. 
 
-There is large interest in tokenizing real world assets.  Half Epsilon's One Time Spend Machine is a technology to enable tokenization, secure custody and institution-to-institution transfer of tokenized assets without intermediaries or blockchains. Please see the link below.
+### Useful Links
 
 [Tokenizing Real World Assets](TokenizingRealWorldAssets.pdf)
 
-Notice that there is no such thing as a correspondent bank in the crypto-economics world. People "bank" with crypto-currency exchanges that offer services in their jurisdictions. If alice@coinbase, a resident of the US wants to transfer BTC to bob@coinhako, a resident of Singapore, she may do so in real time. Can we bring in this concept to the banking world? Can cross-border inter-bank payments be made without correspondent banks? The answer is yes. A key enabler is bank issued Tokenized Fiat Currencies. A second key enabler is Half Epsilon's One Time Spend Machine.  Please see the link below. 
+There is large interest in tokenizing real world assets.  Half Epsilon's One Time Spend Machine is a technology to enable tokenization, secure custody and institution-to-institution transfer of tokenized assets without intermediaries or blockchains. Please see the link above. 
 
 [Inter-bank Payments with Tokenized Fiat Currencies](Inter-bank-Payments.pdf)
 
-
-Banks often like to sell down credit risk that they have acrued to other banks. Tokenization could significantly improve the way this process works in practice. Please see the link below.
+Notice that there is no such thing as a correspondent bank in the crypto-economics world. People "bank" with crypto-currency exchanges that offer services in their jurisdictions. If alice@coinbase, a resident of the US wants to transfer BTC to bob@coinhako, a resident of Singapore, she may do so in real time. Can we bring in this concept to the banking world? Can cross-border inter-bank payments be made without correspondent banks? The answer is yes. A key enabler is bank issued Tokenized Fiat Currencies. A second key enabler is Half Epsilon's One Time Spend Machine.  Please see the link above. 
 
 [Inter-bank Risk Participation Network](Risk-Participation-Network.pdf)
+
+Banks often like to sell down credit risk that they have acrued to other banks. Tokenization could significantly improve the way this process works in practice. Please see the link above.
+
 
 
 ### Founding Team 
