@@ -1,13 +1,12 @@
 ## Welcome to Half Epsilon
 
-Half Epsilon has solved the Double Spend Prevention problem again. We believe this will unlock a huge amount of value. 
-Last time this problem was solved in 2008 and it created a $1T economy. 
+There seems to be significant interest from banks and FIs in exploring tokenized assets. Some banks are moving past crypto-currencies and into tokenized fiat currencies and securities. 
 
-We are a digital asset custody and transfer tech provider. 
+The inspiration for tokenized assets comes from the crypto-currency world. A tokenized asset is different from a digitized asset in one special way. A tokenized asset can move from one institution to another easily. It is a digital bearer asset. 
 
-Blockchains were not designed for institutions. They are too public, too slow and offer variable transaction costs. As institutions enter the tokenized world, a new technology is required to enable the transfer of tokens between institutions in a compliant and confidential manner. Half Epsilon provides such a technology.
+However, blockchains are an extremely poor choice of technology for moving tokenized assets between banks. There are confidentiality and compliance issues in using this technology. 
 
-Our technology also gives Banks and Financial Institutions a genuine opportunity to tokenize traditional financial instruments.  
+Half Epsilon has come up with an alternate technology to enable tokenization, secure custody and institution-to-institution transfer of tokenized assets. This opens up interesting opportunities. 
 
 
 ### Useful Links 
@@ -18,6 +17,9 @@ Our technology also gives Banks and Financial Institutions a genuine opportunity
 [Tokenizing Real World Assets](TokenizingRealWorldAssets.pdf)
 
 [Inter-bank Payments](Inter-bank-Payments.pdf)
+
+[Risk Participation Network](Risk-Participation-Network.pdf)
+
 
 ### Founding Team 
 
