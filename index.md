@@ -14,9 +14,9 @@ Half Epsilon has come up with an alternate technology to enable tokenization, se
 
 [Tokenizing Real World Assets](TokenizingRealWorldAssets.pdf)
 
-[Inter-bank Payments](Inter-bank-Payments.pdf)
+[Inter-bank Payments with Tokenized Fiat Currencies](Inter-bank-Payments.pdf)
 
-[Risk Participation Network](Risk-Participation-Network.pdf)
+[Inter-bank Risk Participation Network](Risk-Participation-Network.pdf)
 
 
 ### Founding Team 
