@@ -12,8 +12,6 @@ Half Epsilon has come up with an alternate technology to enable tokenization, se
 ### Useful Links 
 
 
-[Data Sheet: One Time Spend Machine](OTSM-Data-Sheet.pdf)
-
 [Tokenizing Real World Assets](TokenizingRealWorldAssets.pdf)
 
 [Inter-bank Payments](Inter-bank-Payments.pdf)
