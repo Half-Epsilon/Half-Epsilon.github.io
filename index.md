@@ -6,6 +6,9 @@ The inspiration for tokenized assets comes from the crypto-currency world. A tok
 
 However, blockchains are an extremely poor choice of technology for moving tokenized assets between banks. There are confidentiality and compliance issues in using this technology. 
 
+Half Epsilon has developed a product called the One Time Spend Machine (OTSM). This product is capable of performing localized double spend prevention. A network of OTSMs can transfer tokenized assets among themselves in a peer-to-peer (point-to-point) fashion without using intermediaries for transaction processing. Each OTSM can be monitored by a governor entity to ensure compliance with AML and CTF guidelines.  
+
+
 ### Useful Links
 
 [Tokenizing Real World Assets](TokenizingRealWorldAssets.pdf)
