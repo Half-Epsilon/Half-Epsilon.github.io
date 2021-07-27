@@ -2,7 +2,7 @@
 
 There seems to be significant interest from banks and FIs in exploring tokenized assets. Some banks are moving past crypto-currencies and into tokenized fiat currencies and securities. 
 
-The inspiration for tokenized assets comes from the crypto-currency world. A tokenized asset is different from a digitized asset in one special way. A tokenized asset can move from one institution to another easily. It is a digital bearer asset. 
+A tokenized asset is different from a digitized asset in one special way. A tokenized asset can move from one institution to another easily. 
 
 However, blockchains are an extremely poor choice of technology for moving tokenized assets between banks. There are confidentiality and compliance issues in using this technology. 
 
