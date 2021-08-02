@@ -1,7 +1,7 @@
 ## Welcome to Half Epsilon
 
 
-Half Epsilon has developed a product called the One Time Spend Machine (OTSM). This product is capable of performing localized double spend prevention. A network of OTSMs can transfer tokenized assets among themselves in a peer-to-peer (point-to-point) fashion without using intermediaries for transaction processing. 
+Half Epsilon's goal is to make value move around the world as easily as information. Our product, the One Time Spend Machine (OTSM), is capable of performing localized double spend prevention. A network of OTSMs can transfer tokenized assets among themselves in a peer-to-peer (point-to-point) fashion without using intermediaries for transaction processing. 
 
 
 ### Useful Links
