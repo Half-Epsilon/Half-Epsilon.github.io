@@ -1,12 +1,7 @@
 ## Welcome to Half Epsilon
 
-There seems to be significant interest from banks and FIs in exploring tokenized assets. Some banks are moving past crypto-currencies and into tokenized fiat currencies and securities. 
 
-A tokenized asset is different from a digitized asset in one special way. A tokenized asset can move from one institution to another easily. 
-
-However, blockchains are an extremely poor choice of technology for moving tokenized assets between banks. There are confidentiality and compliance issues in using this technology. 
-
-Half Epsilon has developed a product called the One Time Spend Machine (OTSM). This product is capable of performing localized double spend prevention. A network of OTSMs can transfer tokenized assets among themselves in a peer-to-peer (point-to-point) fashion without using intermediaries for transaction processing. Each OTSM can be monitored by a governor entity to ensure compliance with AML and CTF guidelines.  
+Half Epsilon has developed a product called the One Time Spend Machine (OTSM). This product is capable of performing localized double spend prevention. A network of OTSMs can transfer tokenized assets among themselves in a peer-to-peer (point-to-point) fashion without using intermediaries for transaction processing. 
 
 
 ### Useful Links
