@@ -15,6 +15,10 @@ There is large interest in tokenizing real world assets.  Half Epsilon's One Tim
 Notice that there is no such thing as a correspondent bank in the crypto-economics world. People "bank" with crypto-currency exchanges that offer services in their jurisdictions. If alice@coinbase, a resident of the US wants to transfer BTC to bob@coinhako, a resident of Singapore, she may do so in real time. Can we bring in this concept to the banking world? Can cross-border inter-bank payments be made without correspondent banks? The answer is yes. A key enabler is bank issued Tokenized Fiat Currencies. A second key enabler is Half Epsilon's One Time Spend Machine.  Please see the link above. 
 
 
+[Point-to-point Inter-bank Retail CBDC](rCBDC.pdf)
+
+The evolution of Singapore’s payment, clearing and settlement systems has been driven by technological progress. In this report, we highlight new technological progress, a brand-new way of transferring electronic value, that could significantly influence the design of retail Central Bank Digital Currency (rCBDC) infrastructure in Singapore and beyond.
+
 
 ### Founding Team 
 
