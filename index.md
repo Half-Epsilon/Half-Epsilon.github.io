@@ -30,4 +30,4 @@ Responsible for vision, design and overall execution. ex-IBM Research. Experienc
 
 Responsible for engineering the core product. ex-Amazon, ex-Businesssolver. Experienced engineer, hackathon winner & contributor to open-source.
  
-
+ 
